@@ -1,0 +1,66 @@
+[
+ {
+  "title": "The Top 12 Restaurants in Erbil",
+  "slug": "top-restaurants-erbil",
+  "meta_description": "From smoky Kurdish kebab houses to Lebanese mezze and Italian Village fine dining, here are the twelve restaurants that define eating out in Erbil.",
+  "date": "June 02, 2026",
+  "date_iso": "2026-06-02",
+  "author": "Karwan Aziz",
+  "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=1200&q=70",
+  "outbound_links": [],
+  "posted_iso": "2026-06-04",
+  "historical": false,
+  "available_languages": [
+   "en"
+  ],
+  "category": "Food & Culture"
+ },
+ {
+  "title": "The Top 10 Hotels in Erbil",
+  "slug": "top-hotels-erbil",
+  "meta_description": "Erbil's best hotels for business and leisure, from the Divan and Rotana towers to landmark stays near the Citadel, the airport, and the malls.",
+  "date": "May 22, 2026",
+  "date_iso": "2026-05-22",
+  "author": "Hero Ahmad",
+  "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1200&q=70",
+  "outbound_links": [],
+  "posted_iso": "2026-06-04",
+  "historical": true,
+  "available_languages": [
+   "en"
+  ],
+  "category": "Tourism"
+ },
+ {
+  "title": "The Top 10 Cafes and Coffee Shops in Erbil",
+  "slug": "top-cafes-erbil",
+  "meta_description": "Erbil's best cafes, from the legendary Machko tea house by the Citadel to modern specialty roasters and coworking-friendly spots in Ankawa.",
+  "date": "May 12, 2026",
+  "date_iso": "2026-05-12",
+  "author": "Dilan Brahim",
+  "image": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=1200&q=70",
+  "outbound_links": [],
+  "posted_iso": "2026-06-04",
+  "historical": true,
+  "available_languages": [
+   "en"
+  ],
+  "category": "Food & Culture"
+ },
+ {
+  "title": "The Top 12 Things to Do in Erbil",
+  "slug": "top-things-to-do-erbil",
+  "meta_description": "Twelve essential experiences in Erbil, from the UNESCO Citadel and Qaysari Bazaar to Sami Abdulrahman Park, the malls, and mountain day trips.",
+  "date": "April 28, 2026",
+  "date_iso": "2026-04-28",
+  "author": "Rebin Salar",
+  "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=1200&q=70",
+  "outbound_links": [],
+  "posted_iso": "2026-06-04",
+  "historical": true,
+  "available_languages": [
+   "en"
+  ],
+  "category": "Tourism"
+ }
+]
