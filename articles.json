@@ -81,5 +81,40 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Erbil Isn't Iraq's Cheapest City, But Here's What Your Money Actually Buys",
+    "slug": "cost-living-erbil-iraqi-cities",
+    "meta_description": "A local look at the cost of living in Erbil compared to Baghdad, Basra and Sulaymaniyah, with real rent, food and utility numbers.",
+    "date": "July 13, 2026",
+    "date_iso": "2026-07-13",
+    "author": "Dilan Brahim",
+    "image": "https://images.pexels.com/photos/6332003/pexels-photo-6332003.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "numbeo.com",
+      "worldbank.org"
+    ],
+    "posted_iso": "2026-07-13",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "FIB Put a Bank in Your Pocket, and Erbil's Cash Habit Started to Crack",
+    "slug": "fib-app-2021-kurdistan-banking",
+    "meta_description": "In 2021 First Iraqi Bank went app-first and Kurdistan's cash-only reflex began to shift. Here is what the launch meant on the ground in Erbil and Slemani.",
+    "date": "December 07, 2021",
+    "date_iso": "2021-12-07",
+    "author": "Rebin Salar",
+    "image": "https://images.pexels.com/photos/6353669/pexels-photo-6353669.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "worldbank.org",
+      "cbi.iq"
+    ],
+    "posted_iso": "2026-07-13",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   }
 ]
