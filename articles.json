@@ -134,5 +134,22 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "What to Eat in Kurdistan Before Anyone Hands You Hummus",
+    "slug": "kurdish-dishes-every-visitor-should-try",
+    "meta_description": "A local guide to traditional Kurdish dishes, from sour dolma in Erbil to kubba hamusta in Slemani, with real prices and where to find them.",
+    "date": "July 16, 2026",
+    "date_iso": "2026-07-16",
+    "author": "Dilan Brahim",
+    "image": "https://images.pexels.com/photos/38301338/pexels-photo-38301338.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "whc.unesco.org",
+      "gov.krd"
+    ],
+    "posted_iso": "2026-07-16",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
