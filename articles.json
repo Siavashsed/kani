@@ -151,5 +151,42 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Erbil's Investment Boom Is Real, But the Money Is Getting Pickier",
+    "slug": "kurdistan-investment-trade-trends",
+    "meta_description": "Investment and trade trends across the Kurdistan Region in 2026: where capital is actually going, which licences stall, and what traders get wrong.",
+    "date": "July 20, 2026",
+    "date_iso": "2026-07-20",
+    "author": "Lana Mahmud",
+    "image": "https://images.pexels.com/photos/29359146/pexels-photo-29359146.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "boi.gov.krd",
+      "reuters.com",
+      "worldbank.org"
+    ],
+    "posted_iso": "2026-07-20",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "The Year Kurdistan Paid 1.2 Million Salaries Through a Bank",
+    "slug": "krg-my-account-salary-banking-2024",
+    "meta_description": "In 2024 the KRG pushed public salaries onto bank accounts through My Account. Here is what it changed, what broke, and who it helped.",
+    "date": "July 04, 2024",
+    "date_iso": "2024-07-04",
+    "author": "Dilan Brahim",
+    "image": "https://images.pexels.com/photos/8555257/pexels-photo-8555257.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "worldbank.org",
+      "cbi.iq",
+      "gov.krd"
+    ],
+    "posted_iso": "2026-07-20",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   }
 ]
