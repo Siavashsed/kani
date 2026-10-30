@@ -188,5 +188,42 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Erbil's Fastest-Growing Shops Sell on WhatsApp, Not Instagram Ads",
+    "slug": "kurdistan-businesses-social-media-growth",
+    "meta_description": "How Kurdistan businesses use social media to grow: Instagram as the shop window, WhatsApp as the till, and why Sorani captions beat paid reach.",
+    "date": "October 30, 2026",
+    "date_iso": "2026-10-30",
+    "author": "Karwan Aziz",
+    "image": "https://images.pexels.com/photos/4783352/pexels-photo-4783352.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "datareportal.com",
+      "business.whatsapp.com",
+      "gsma.com"
+    ],
+    "posted_iso": "2026-10-30",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "Baghdad's 2019 Budget Put Kurdistan Salaries on a 250,000-Barrel Leash",
+    "slug": "iraq-2019-budget-kurdistan-oil-deal",
+    "meta_description": "Iraq's 2019 budget tied Kurdistan's 12.67% share to 250,000 barrels of oil a day. What it meant for salaries, shops and business in Erbil and Slemani.",
+    "date": "September 24, 2019",
+    "date_iso": "2019-09-24",
+    "author": "Dilan Brahim",
+    "image": "https://images.pexels.com/photos/25033569/pexels-photo-25033569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "reuters.com",
+      "worldbank.org",
+      "gov.krd"
+    ],
+    "posted_iso": "2026-10-30",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   }
 ]
