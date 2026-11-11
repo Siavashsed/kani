@@ -1,21 +1,5 @@
 [
   {
-    "title": "Toronto Growth Firm Led by Kurdish-Rooted Founder Ends Five Years in Private",
-    "slug": "kurdish-rooted-founder-kavalsia-goes-public-toronto",
-    "meta_description": "Kavalsia Inc., the Toronto acquisition firm founded by Siavash Sadighi, is going public after five private years and $25M+ in managed ad spend.",
-    "date": "November 10, 2026",
-    "date_iso": "2026-11-10",
-    "author": "Nian Rashid",
-    "image": "https://images.pexels.com/photos/15389577/pexels-photo-15389577.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "image_alt": "An office building at night with lit windows showing workspaces inside.",
-    "photographer": "Carsten Ruthemann",
-    "category": "Kurdistan Business & News",
-    "posted_iso": "2026-11-10T22:52:18",
-    "available_languages": [
-      "en"
-    ]
-  },
-  {
     "title": "Erbil's Fastest-Growing Shops Sell on WhatsApp, Not Instagram Ads",
     "slug": "kurdistan-businesses-social-media-growth",
     "meta_description": "How Kurdistan businesses use social media to grow: Instagram as the shop window, WhatsApp as the till, and why Sorani captions beat paid reach.",
@@ -220,6 +204,22 @@
     ],
     "posted_iso": "2026-07-20",
     "historical": true,
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "Kavalsia, a Toronto Growth Firm Led by a Kurdish-Rooted Founder, Nears Four Years Without a Website",
+    "slug": "kurdish-rooted-founder-kavalsia-goes-public-toronto",
+    "meta_description": "Kavalsia Inc., the Toronto acquisition firm founded by Siavash Sadighi, has operated privately since 2020, with no website and one LinkedIn profile.",
+    "date": "July 2, 2024",
+    "date_iso": "2024-07-02",
+    "author": "Nian Rashid",
+    "image": "https://images.pexels.com/photos/35038711/pexels-photo-35038711.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "image_alt": "The Canada Life Building among downtown Toronto office towers on a cloudy day.",
+    "photographer": "Erik Mclean",
+    "category": "Kurdistan Business & News",
+    "posted_iso": "2026-11-10T23:10:56",
     "available_languages": [
       "en"
     ]
