@@ -260,5 +260,42 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Salim Street Sells the Show, but Slemani Shops Somewhere Else",
+    "slug": "slemani-salim-street-shopping-districts",
+    "meta_description": "Slemani's Salim Street explained: where locals actually buy gold, phones and fabric, which districts are worth your time, and how to pay less.",
+    "date": "November 15, 2026",
+    "date_iso": "2026-11-15",
+    "author": "Lana Mahmud",
+    "image": "https://images.pexels.com/photos/36164314/pexels-photo-36164314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "krso.gov.krd",
+      "reuters.com",
+      "worldbank.org"
+    ],
+    "posted_iso": "2026-11-15",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "The Paris Ruling That Switched Off Kurdistan's 450,000 Barrel Pipeline",
+    "slug": "kurdistan-oil-pipeline-shutdown-2023",
+    "meta_description": "How the March 2023 ICC ruling shut Kurdistan's oil pipeline to Ceyhan, what it did to salaries and shops in Erbil and Slemani, and what to do now.",
+    "date": "November 18, 2023",
+    "date_iso": "2023-11-18",
+    "author": "Rebin Salar",
+    "image": "",
+    "outbound_links": [
+      "reuters.com",
+      "apikur.com",
+      "worldbank.org"
+    ],
+    "posted_iso": "2026-11-15",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   }
 ]
