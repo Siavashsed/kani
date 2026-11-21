@@ -384,5 +384,23 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Kurdistan Grows Wheat Like a Giant and Sells Honey Like a Secret",
+    "slug": "kurdistan-agriculture-food-exports-local-brands",
+    "meta_description": "Kurdistan's agriculture and food exports run from wheat to honey to new local brands. Here's what actually sells, and what still holds producers back.",
+    "date": "November 21, 2026",
+    "date_iso": "2026-11-21",
+    "author": "Rebin Salar",
+    "image": "https://images.pexels.com/photos/40039948/pexels-photo-40039948.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "reuters.com",
+      "fao.org",
+      "krso.gov.krd"
+    ],
+    "posted_iso": "2026-11-21",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
