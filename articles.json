@@ -402,5 +402,40 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Buy Kurdish Handicrafts From Makers Who Answer Their Own Phone",
+    "slug": "kurdish-handicrafts-coffee-local-brands",
+    "meta_description": "Which Kurdish handicrafts, coffee roasters and local brands deserve your money? A local guide to buying well in Erbil and Slemani bazaars.",
+    "date": "November 22, 2026",
+    "date_iso": "2026-11-22",
+    "author": "Dilan Brahim",
+    "image": "",
+    "outbound_links": [
+      "worldbank.org",
+      "unesco.org"
+    ],
+    "posted_iso": "2026-11-22",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "Iraq's Dinar Devaluation Hit Erbil Shopping Carts Hardest in 2021",
+    "slug": "iraq-dinar-devaluation-erbil-2021",
+    "meta_description": "In 2021 the Iraqi dinar's drop to 1,450 per dollar reshaped prices in Erbil and Slemani. Here's what shopkeepers, importers and families actually felt.",
+    "date": "September 23, 2021",
+    "date_iso": "2021-09-23",
+    "author": "Lana Mahmud",
+    "image": "",
+    "outbound_links": [
+      "cbi.iq",
+      "worldbank.org"
+    ],
+    "posted_iso": "2026-11-22",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   }
 ]
