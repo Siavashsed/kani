@@ -487,5 +487,23 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Kurdistan's Startup Scene Is Built on Payments and Delivery, Not Oil",
+    "slug": "kurdistan-startup-scene-who-is-building",
+    "meta_description": "Who is actually building startups in Erbil and Slemani, what they sell, and why the pipeline shutdown and salary delays shape every pitch.",
+    "date": "November 26, 2026",
+    "date_iso": "2026-11-26",
+    "author": "Karwan Aziz",
+    "image": "https://images.pexels.com/photos/33721957/pexels-photo-33721957.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "datareportal.com",
+      "reuters.com",
+      "worldbank.org"
+    ],
+    "posted_iso": "2026-11-26",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
