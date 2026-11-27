@@ -505,5 +505,23 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Erbil Costs More Than Baghdad or Basra, But Not Where You Think",
+    "slug": "erbil-cost-of-living-iraqi-cities",
+    "meta_description": "Cost of living in Erbil versus Baghdad, Sulaymaniyah, Basra and Najaf: what rent, food and fuel actually cost, and where your dinar goes further.",
+    "date": "November 27, 2026",
+    "date_iso": "2026-11-27",
+    "author": "Rebin Salar",
+    "image": "https://images.pexels.com/photos/734775/pexels-photo-734775.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "numbeo.com",
+      "cbi.iq",
+      "worldbank.org"
+    ],
+    "posted_iso": "2026-11-27",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
